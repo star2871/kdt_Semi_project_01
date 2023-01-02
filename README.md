@@ -73,5 +73,5 @@
 
 
 
-## 📅 Daily Scrum
+
 
